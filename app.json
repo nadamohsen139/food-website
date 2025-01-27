@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "food-website",
-    "slug": "food-website",
+    "name": "Fooderia",
+    "slug": "Fooderia",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
